@@ -15,8 +15,8 @@ Obert a tothom que vulgui i pugui aportar el seu coneixement i dedicació.
 - Moneda
 - Legal
 - Propostes
-- Events
-- Chats
+- Esdeveniments
+- Xats
     - privats
     - grup
     - per temes

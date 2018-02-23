@@ -1,8 +1,8 @@
 {
 	"description": "NativeScript Application",
-	"license": "SEE LICENSE IN <your-license-filename>",
+	"license": "SEE LICENSE IN LICENCE",
 	"readme": "NativeScript Application",
-	"repository": "<fill-your-repository-here>",
+	"repository": "jjtortosa/cat-mambo",
 	"nativescript": {
 		"id": "org.nativescript.catmambo"
 	},
